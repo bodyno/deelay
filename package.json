@@ -1,0 +1,16 @@
+{
+  "name": "deelay",
+  "version": "2.0.0",
+  "description": "Delay proxy for http resources",
+  "repository": "https://github.com/biesiad/deelay",
+  "homepage": "http://www.deelay.me/",
+  "main": "index.js",
+  "bin": {
+    "deelay": "bin/deelay.js"
+  },
+  "scripts": {
+    "test": "node test/indexTest.js"
+  },
+  "author": "Grzegorz Biesiadecki",
+  "license": "MIT"
+}
